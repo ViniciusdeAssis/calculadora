@@ -12,6 +12,8 @@
 <hr>
 
 <h3 align="center">E como ela funciona?</h3>
+<div align="center"
 
 ![Animação](https://user-images.githubusercontent.com/87393548/148587598-c85beefa-c086-4417-b390-c0a9973380f4.gif)
 
+</div>
