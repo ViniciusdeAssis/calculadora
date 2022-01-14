@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<p><strong>Olá</strong>, esse projeto é uma calculadora black, que foi feito assistindo o [vídeo](https://www.youtube.com/watch?v=ATd9r0BQ9lI&ab_channel=TechLy) da [TechLy](https://www.youtube.com/channel/UC3rU2a5u_XPup2M3vOjUjkg) , o intuito de fazer essa calculadora é aprender e absorver o máximo de conhecimento possível!</p>
+<p><strong>Olá</strong>, esse projeto é uma calculadora black, que foi feito assistindo o <a href="https://www.youtube.com/watch?v=ATd9r0BQ9lI&ab_channel=TechLy">vídeo</a> da <a href="https://www.youtube.com/channel/UC3rU2a5u_XPup2M3vOjUjkg">Techly</a> , o intuito de fazer essa calculadora é aprender e absorver o máximo de conhecimento possível!</p>
 
 <h2>Tecnologias</h2>
 
