@@ -15,6 +15,6 @@
 <h2>E como funciona?</h2>
 <div align="center"
 
-![Animação](https://user-images.githubusercontent.com/87393548/148587598-c85beefa-c086-4417-b390-c0a9973380f4.gif)
+![calc](https://user-images.githubusercontent.com/87393548/193324591-8316e8e7-2f60-407f-b9c4-3d1266744e3d.gif)
 
 </div>
